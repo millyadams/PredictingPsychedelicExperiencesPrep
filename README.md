@@ -1,6 +1,5 @@
 # PredictingPsychedelicExperiencesPrep
 
-# PredictingPschedelicExperiences
 ## Investigating EEG Predictors of the Acute DMT Experience
 This repository contains code preparing EEG data (input features) and generating groups of subjective experiences (labelled outcomes) prior to machine learning. The project goal is to  
 investigate whether features of participants' baseline, resting-state EEG signals can be used to predict binarised classifications of subsequent DMT experiences (e.g., Mystical vs Non-Mystical). 
