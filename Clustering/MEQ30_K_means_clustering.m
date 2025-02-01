@@ -24,6 +24,7 @@ MEQ_Pilot = table2array(Pilot_MEQ(:,6));
 % Combine data into a cell array 
 % Note - skip this step if you have a singular dataset 
 all_total_MEQ = [MEQ_CI; MEQ_Imaging; MEQ_Pilot];
+%all_total_MEQ = [all_total_MEQ, zeros(size(all_total_MEQ))]; % Add a second column (dummy variable) for older versions of matlab
 
 % 3. K-mean clustering 
 
