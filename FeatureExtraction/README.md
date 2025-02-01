@@ -19,6 +19,7 @@
 ### 2. Feature extraction 
   - FeatureExtraction_AbsPower_LZ.m
   - FeatureExtraction_RelPower.m
+Note - LZ function extracts entropy and LZ from timeseries and Hilbert-Transformed timeseries. 
 
 ### 3. Ensuring python compatability 
   - Features_to_CSV.m
