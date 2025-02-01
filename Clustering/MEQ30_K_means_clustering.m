@@ -1,4 +1,5 @@
 %Script to k-means cluster MEQ data based on total MEQ score
+%For other experience types, update the relevant lines as noted in the README file  
 
 clear all; 
 
